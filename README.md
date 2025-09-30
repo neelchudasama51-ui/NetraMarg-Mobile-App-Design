@@ -1,5 +1,5 @@
 # NetraMarg Mobile App 
-This app is design to support visually impaired person and to support real time independence with advanced ai based innovatin
+This app is designed to support visually impaired person and to support real time independence with advanced ai based innovatin
 ---
 ## Features
 - AI Vision: Captures and analyzes the environment to provide scene descriptions  
