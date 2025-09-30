@@ -1,11 +1,27 @@
+# NetraMarg Mobile App 
+This app is design to support visually impaired person and to support real time independence with advanced ai based innovatin
+---
+## Features
+- AI Vision: Captures and analyzes the environment to provide scene descriptions  
+- Navigation Assistance: Provides step-by-step guidance using GPS  
+- SOS Alerts: Sends emergency notifications with real-time location sharing  
 
-  # NetraMarg Mobile App Design
+---
 
-  This is a code bundle for NetraMarg Mobile App Design. The original project is available at https://www.figma.com/design/UKOwr2H8pvqTAcBMPJEkpt/NetraMarg-Mobile-App-Design.
+## Tech Stack
+- Frontend: [React Native]  
+- Backend: [Node.js / PostgreSQL]  
+- AI Integration: Python-based models or cloud AI API  
+- APIs Used: GPS services, camera integration, text-to-speech  
 
-  ## Running the code
+---
+## Usage
 
-  Run `npm i` to install the dependencies.
+- Open the app and grant necessary permissions (camera, location, microphone)
+- Tap Vision Mode to receive AI-powered scene descriptions
+- Use Navigation Mode for guided directions
+- Long-press the SOS button to send alerts with your live location
 
-  Run `npm run dev` to start the development server.
-  
+---
+## Contributors
+-Neel Chudasama
